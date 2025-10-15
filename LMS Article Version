@@ -1,0 +1,65 @@
+🌍 Using AI to Tackle Climate Change: Predicting CO₂ Emissions (SDG 13 Project)
+
+By: Francis Gachoki Karimi
+Course: PLP Academy — AI & Machine Learning Module
+
+💡 The Problem
+
+Climate change remains one of the most pressing challenges of our time.
+The transport sector is a major contributor to global CO₂ emissions — over 24% of total emissions come from vehicles. Understanding and predicting these emissions is key to designing smarter policies and sustainable technologies.
+
+🧠 The AI Solution
+
+This project applies machine learning (supervised learning) to predict CO₂ emissions based on car specifications such as:
+
+Engine size
+
+Cylinders
+
+Fuel consumption (city/highway/combined)
+
+By analyzing these attributes, the AI model identifies patterns that influence emissions and offers actionable insights for reducing pollution.
+
+🧰 How It Works
+
+Using the CO2_Emissions.csv dataset, I trained two models:
+
+Linear Regression
+
+Random Forest Regressor
+
+After comparing their performance:
+
+Random Forest achieved R² = 0.975, meaning it accurately predicts emission values.
+
+Users can even input new car specs to instantly get a predicted emission score.
+
+📊 Key Results
+
+Larger engine size = higher CO₂ emissions
+
+Vehicles with better fuel efficiency = lower emissions
+
+The model helps policymakers and manufacturers identify where improvements can cut emissions fastest.
+
+🌿 Ethical Reflection
+
+Data bias can occur if certain car types (like hybrids or EVs) are underrepresented.
+The project promotes fairness and sustainability, ensuring AI-driven insights benefit the planet and not just industry profits.
+
+💬 Impact
+
+This AI solution can:
+
+Help governments predict national CO₂ trends.
+
+Assist automakers in designing eco-friendly vehicles.
+
+Guide consumers toward greener car choices.
+
+🧩 Conclusion
+
+Artificial Intelligence, when aligned with sustainability, can accelerate progress toward SDG 13 — Climate Action.
+This project shows how a small model can make a big environmental difference.
+
+🌎 “Technology alone won’t save us, but technology guided by purpose will.”
